@@ -22,7 +22,7 @@ PowerPoint.
 
 This experience has been an incredible journey, and I'm excited to leverage these newfound skills to drive meaningful change and insights in the data analytics field. Thanks to Tata Group and Forage for this invaluable opportunity!
 
-Images of Visualizations:
+### Images of Visualizations:
 ![Screenshot (12)](https://github.com/Aayush2k23/TATA_Virtual_Internship/assets/131526402/bce0483d-2b56-49d8-8702-9b3a929ce4d0)
 ![Screenshot (13)](https://github.com/Aayush2k23/TATA_Virtual_Internship/assets/131526402/d07e8e22-4693-45eb-96ad-dbf1b4b2cf4d)
 ![Screenshot (14)](https://github.com/Aayush2k23/TATA_Virtual_Internship/assets/131526402/28e839f8-2a64-4eec-92e2-2c1707583cd4)
