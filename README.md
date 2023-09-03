@@ -15,10 +15,10 @@ Armed with a strong foundation, I can now apply my knowledge to create visuals t
 Effectively conveying findings and their relevance to each scenario is key. I've refined my skills in articulating complex insights to diverse audiences.
 
 ### Tools Used:
-Excel
-Power BI
-Word
-PowerPoint
+Excel,
+Power BI,
+Word,
+PowerPoint.
 
 This experience has been an incredible journey, and I'm excited to leverage these newfound skills to drive meaningful change and insights in the data analytics field. Thanks to Tata Group and Forage for this invaluable opportunity!
 
